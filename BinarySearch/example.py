@@ -52,3 +52,6 @@ result = search.search(my_nums, my_target)
 print(f"\nList: {my_nums}")
 print(f"Searching for: {my_target}")
 print(f"Result: {'Found at index ' + str(result) if result != -1 else 'Not found'}")
+
+
+
